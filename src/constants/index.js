@@ -1,6 +1,6 @@
 import GrowIT from "../assets/projects/GrowIT.jpg";
 import Lamentis from "../assets/projects/Lamentis.jpg";
-import modeling from "../assets/projects/Modeling.jpg";
+import modeling from "../assets/projects/modeling.jpg";
 import BlogApp from "../assets/projects/BlogApp.jpg";
 
 export const HERO_CONTENT = `I am pursuing my MCA from Manipal University, Jaipur, Rajasthan. I am seeking an innovating and challenging career in a 
