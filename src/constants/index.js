@@ -57,7 +57,7 @@ export const PROJECTS = [
     image: modeling,
     description:
       "The ModelSphere website is a sleek and stylish platform designed to showcase modeling portfolios, talent, and services. This project focuses on delivering a visually stunning and user-friendly experience tailored to the needs of the modeling and fashion industry.",
-    technologies: ["HTML", "CSS", "Bootstrap", "JavaScript"],
+    technologies: ["HTML", "CSS", "Bootstrap", "JavaScript  "],
   },
   {
     title: "Portfolio Website",
