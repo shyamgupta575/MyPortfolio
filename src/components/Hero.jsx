@@ -1,5 +1,5 @@
 import { HERO_CONTENT } from "../constants"
-import profilePic from "../assets/kevinRushProfile.png";
+import Profile2 from "../assets/Profile2.png";
 import {delay, motion} from "framer-motion";
 
 const container=(delay) =>({
@@ -45,7 +45,7 @@ function Hero() {
             initial={{x:100,opacity:0}}
             animate={{x:0, opacity:1}}
             transition={{duration: 1,delay:1.2}}
-            src={profilePic} alt="Shyam Gupta" />
+            src={Profile2} alt="Shyam Gupta" />
         </div>
         </div>
     </div>

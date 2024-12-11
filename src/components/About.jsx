@@ -1,4 +1,4 @@
-import aboutImg from "../assets/about.jpg";
+import ShyamAboutimg from "../assets/ShyamAboutimg.jpg";
 import { ABOUT_TEXT } from "../constants";
 import { motion } from "framer-motion";
 
@@ -20,8 +20,8 @@ function About() {
           className="w-full lg:w-1/2 lg:p-8 flex items-center justify-center"
         >
           <img
-            className="rounded-2xl shadow-lg"
-            src={aboutImg}
+            className="w-90 h-90 rounded-2xl shadow-lg"
+            src={ShyamAboutimg}
             alt="About Me"
           />
         </motion.div>

@@ -70,8 +70,8 @@ export const PROJECTS = [
     title: "Blogging Platform",
     image: Lamentis,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+      "Developed a dynamic full-stack blog platform using Next.js and MongoDB, implementing features such as user authentication for secure access, CRUD functionalities for blog management, and a commenting system to enhance user engagement. ",
+    technologies: ["HTML", "CSS", "React", "Next", "MongoDB"],
   },
 ];
 
