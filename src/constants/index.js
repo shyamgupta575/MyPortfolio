@@ -2,6 +2,8 @@ import GrowIT from "../assets/projects/GrowIT.jpg";
 import Lamentis from "../assets/projects/Lamentis.jpg";
 import modeling from "../assets/projects/modeling.jpg";
 import BlogApp from "../assets/projects/BlogApp.jpg";
+import portfoliophoto from "../assets/projects/portfoliophoto.jpg";
+ 
 
 export const HERO_CONTENT = `I am pursuing my MCA from Manipal University, Jaipur, Rajasthan. I am seeking an innovating and challenging career in a 
 growth-oriented organization, which offers challenging opportunities and utilizes my knowledge & skills, and enables to 
@@ -51,27 +53,23 @@ export const PROJECTS = [
     description:
       "The GrowIT website is a one-stop platform for showcasing a company’s expertise in web design, app development, digital marketing, and graphic designing. This project reflects my ability to create professional websites that effectively communicate business services and cater to diverse audience needs.",
     technologies: ["HTML", "CSS", "Bootstrap", "JavaScript"],
-  },
-  {
-    title: "Modeling Website",
-    image: modeling,
-    description:
-      "The ModelSphere website is a sleek and stylish platform designed to showcase modeling portfolios, talent, and services. This project focuses on delivering a visually stunning and user-friendly experience tailored to the needs of the modeling and fashion industry.",
-    technologies: ["HTML", "CSS", "Bootstrap", "JavaScript  "],
+    link: "https://growitservices.netlify.app/", // Add the link to the live website
   },
   {
     title: "Portfolio Website",
-    image: BlogApp,
+    image: portfoliophoto,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+    technologies: ["HTML", "CSS", "React", "Tailwindcss"],
+    link: "https://myportfolioshyam.netlify.app/", // Add the link to the live website
   },
   {
     title: "Blogging Platform",
-    image: Lamentis,
+    image: BlogApp,
     description:
-      "Developed a dynamic full-stack blog platform using Next.js and MongoDB, implementing features such as user authentication for secure access, CRUD functionalities for blog management, and a commenting system to enhance user engagement. ",
+      "Developed a dynamic full-stack blog platform using Next.js and MongoDB, implementing features such as user authentication for secure access, CRUD functionalities for blog management, and a commenting system to enhance user engagement.",
     technologies: ["HTML", "CSS", "React", "Next", "MongoDB"],
+    link: "https://growitservices.netlify.app/", // Add the link to the live website
   },
 ];
 
