@@ -3,7 +3,7 @@ import Lamentis from "../assets/projects/Lamentis.jpg";
 import modeling from "../assets/projects/modeling.jpg";
 import BlogApp from "../assets/projects/BlogApp.jpg";
 import portfoliophoto from "../assets/projects/portfoliophoto.jpg";
- 
+
 
 export const HERO_CONTENT = `I am pursuing my MCA from Manipal University, Jaipur, Rajasthan. I am seeking an innovating and challenging career in a 
 growth-oriented organization, which offers challenging opportunities and utilizes my knowledge & skills, and enables to 
@@ -69,7 +69,7 @@ export const PROJECTS = [
     description:
       "Developed a dynamic full-stack blog platform using Next.js and MongoDB, implementing features such as user authentication for secure access, CRUD functionalities for blog management, and a commenting system to enhance user engagement.",
     technologies: ["HTML", "CSS", "React", "Next", "MongoDB"],
-    link: "https://growitservices.netlify.app/", // Add the link to the live website
+    link: "https://eternatech.netlify.app/", // Add the link to the live website
   },
 ];
 
